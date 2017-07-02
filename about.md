@@ -9,4 +9,4 @@ I used to work in Academia, doing research in theoretical linguistics. Now I am 
 
 ### Contact me
 
-[email@domain.com](mailto:aleksandra.vercauteren@gmail.com)
+[aleksandra.vercauteren@gmail.com](mailto:aleksandra.vercauteren@gmail.com)
