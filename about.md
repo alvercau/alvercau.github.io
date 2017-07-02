@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I used to work in Academia, doing research in theoretical linguistics. Now I am getting lost in data science, finding a whole lot of new doors to be opened. I wonder what is behind those doors.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:aleksandra.vercauteren@gmail.com)
